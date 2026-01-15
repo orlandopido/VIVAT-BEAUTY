@@ -1,2 +1,2 @@
-# VIVAT-BEAUTY
-Loja Produtos de Beleza
+# Trade-Calculator
+Calculos de Importação
